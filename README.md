@@ -6,3 +6,5 @@ Sample $\TeX$ t
 :D
 
 <div align="right">mxkmn inc.</div>
+
+P.s. Этот файл отлично читается через VS Code
